@@ -36,7 +36,7 @@ Processing Questions
 
 ##
 
-## Identify (unfinishied)
+## Identify 
 
  1.	Tesoro found out that the “literature-based classroom” should always consider the context of the learners, the literature, and the context of the teacher (19) <span color="yellow">MLA Style</span>
  2.	Garcia et al. (2019) emphasized that a literature-based classroom should always consider the context of the learners, the literature, and the context of the teacher. <span color="yellow"> APA Style</span>
