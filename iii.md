@@ -3,9 +3,12 @@
 ![image](https://user-images.githubusercontent.com/88429672/223671275-21c8209e-4e8d-4037-b085-a53c391c902b.png)
 
 Processing Questions
-•	Which of these words can be associated with organizing your literature review?
-  A: Chronological, It is an approach in organizing; puts emphasis on a timeline
-•	Do you think word 1 is different from word 4? Why or why not?
+•	Which of these words can be associated with organizing your literature review?  
+
+  A: Chronological, It is an approach in organizing; puts emphasis on a timeline  
+  
+•	Do you think word 1 is different from word 4? Why or why not?  
+
  A: Word 1; Copyright is different from word 4, Plagiarism because ***Copyright*** is about protecting the intellectual property that protects original works of the author and ***Plagiarism*** is presenting work or ideas from another source as your own, with or without consent of the original author, by incorporating it into your work without full acknowledgement.
 
 
@@ -35,11 +38,11 @@ Processing Questions
 
 ## Identify (unfinishied)
 
- 1.	Tesoro found out that the “literature-based classroom” should always consider the context of the learners, the literature, and the context of the teacher (19)
- 2.	Garcia et al. (2019) emphasized that a literature-based classroom should always consider the context of the learners, the literature, and the context of the teacher.
- 3.	Acosta and Portillo (2017) noted that “photovoice” helps learners expound their ideas in writing essays.
- 4.	“Photovoice” helps learners expound their ideas  in writing essays (Maglaya 21).
- 5.	It is reiterated that research is a purposive, systematic and scientific process of discovering truth. (Calderon and Gonzales 2019, 38)
+ 1.	Tesoro found out that the “literature-based classroom” should always consider the context of the learners, the literature, and the context of the teacher (19) <span color="yellow">MLA Style</span>
+ 2.	Garcia et al. (2019) emphasized that a literature-based classroom should always consider the context of the learners, the literature, and the context of the teacher. <span color="yellow"> APA Style</span>
+ 3.	Acosta and Portillo (2017) noted that “photovoice” helps learners expound their ideas in writing essays. <span color="yellow">APA Style</span>
+ 4.	“Photovoice” helps learners expound their ideas  in writing essays (Maglaya 21). <span color="yellow">MLA Style</span>
+ 5.	It is reiterated that research is a purposive, systematic and scientific process of discovering truth. (Calderon and Gonzales 2019, 38) <span color="yellow">Chicago Manual of Style</span>
 
 ##
 
