@@ -49,6 +49,8 @@ CPAR
 ##
 
 ## Activity #1
+![image](https://user-images.githubusercontent.com/88429672/224522653-8e40cd27-d728-4d0b-bd57-1892f61c2bbb.png)
+
 1. Commercial Art
 2. Practical Art
 3. Industrial Art
